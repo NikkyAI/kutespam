@@ -1,0 +1,3 @@
+[submodule "cutespamtk"]
+	path = cutespamtk
+	url = https://github.com/Victorious3/cutespamtk.git
